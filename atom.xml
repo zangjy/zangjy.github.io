@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZangJY&#39;s Blog</title>
+  <icon>https://www.zangjiayu.top/icon.png</icon>
+  
+  <link href="https://www.zangjiayu.top/atom.xml" rel="self"/>
+  
+  <link href="https://www.zangjiayu.top/"/>
+  <updated>2025-01-12T14:14:30.340Z</updated>
+  <id>https://www.zangjiayu.top/</id>
+  
+  <author>
+    <name>ZangJY</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>高性能终端实时日志收集系统</title>
+    <link href="https://www.zangjiayu.top/2023/11/23/zlog/20231123/"/>
+    <id>https://www.zangjiayu.top/2023/11/23/zlog/20231123/</id>
+    <published>2023-11-23T05:38:19.000Z</published>
+    <updated>2025-01-12T14:14:30.340Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="ZLog" scheme="https://www.zangjiayu.top/categories/ZLog/"/>
+    
+    
+    <category term="日志收集" scheme="https://www.zangjiayu.top/tags/%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多人实时扫码点餐项目</title>
+    <link href="https://www.zangjiayu.top/2022/02/12/ordering/20220212/"/>
+    <id>https://www.zangjiayu.top/2022/02/12/ordering/20220212/</id>
+    <published>2022-02-12T10:53:23.000Z</published>
+    <updated>2022-02-15T18:53:06.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="扫码点餐" scheme="https://www.zangjiayu.top/categories/%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90/"/>
+    
+    
+    <category term="微信小程序" scheme="https://www.zangjiayu.top/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    <category term="扫码点餐" scheme="https://www.zangjiayu.top/tags/%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90/"/>
+    
+  </entry>
+  
+</feed>
